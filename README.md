@@ -6,7 +6,7 @@
 
 O **IStruct Beam** é um software estrutural open-source focado no dimensionamento de vigas de concreto armado.
 
-Você pode utilizar o sistema, na pasta dist , tem o arquivo IStructBeam.exe (dist\IstructBeam.exe)
+Você pode utilizar o sistema com seu executavel aqui no drive : https://drive.google.com/file/d/1--571b4qUonABzk_b89YXYEA5RQI3bQf/view?usp=sharing
 
 O objetivo do projeto é fornecer uma ferramenta:
 
