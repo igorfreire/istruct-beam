@@ -137,7 +137,7 @@ istruct/
 ## 1️⃣ Clone o repositório
 
 ```bash
-git clone https://github.com/SEU_USUARIO/istruct-beam.git
+git clone https://github.com/igorfreire/istruct-beam.git
 ```
 
 ---
